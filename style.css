@@ -1,0 +1,37 @@
+.header{
+    background-image:URL("pattern.jpeg");
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+.Brushes h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+figcaption{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.price{
+    color: blue;
+    font-weight: bold;
+}
+.frames h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+    background-color: coral;
+}
+.paint h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
